@@ -7,3 +7,6 @@ Saiba Mais sobre GIT
 
 
 Nova alteração
+
+Commit no remoto
+
