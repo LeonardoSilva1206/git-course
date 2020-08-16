@@ -10,3 +10,4 @@ Nova alteração
 
 Commit no remoto
 
+Nova Alteração GIT Desktop
